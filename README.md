@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=syw-robotics&show_icons=true&count_private=true&hide_border=true&show=prs_merged&rank_icon=github" align="right" width="450px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syw-robotics&show_icons=true&count_private=true&hide_border=true&show=prs_merged&rank_icon=github&theme=transparent" align="right" width="450px"/>
 
 ### 🙂 Hello, there!
 
